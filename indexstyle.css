@@ -1,0 +1,41 @@
+/*
+    Document   : indexstyle.css
+    Created on : 2015-09-01 08:08 PM
+    Author     : nickc596
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjsIGmp6AndCuC88RLZRCZ5DDdJrvUnxqlb9L4492oxPAy0FS");
+background-size:3000px;
+}
+h2 {
+    background-color :purple;
+    color :#08ff00;
+    font-size :6em;  
+}
+h3 {
+    color :orange; font-size :75px;
+}
+h4 {
+    color :red; font-size :24px;}
+h5 {
+    color :green; font-size :24px;}
+h6 {
+    color :blue; font-size :24px;}
+
+#purpose {color :red;}
+#overview {color :green;}
+.text {
+    color :black;
+font-size :25px;
+}
+#welcome {text-align :center;
+    
+}
+#other-pages
+
+div {
+    
+}
