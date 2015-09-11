@@ -10,33 +10,33 @@
 #nav-bar li{
     display:inline;
     text-align:center;
-    font-size:20px;
-    top:10;
-    right:10;
+    font-size:28px;
+    border:groove;
+    color:pink;
+    
 }
 
 #nav-bar{
     text-align:center;
     border:double;
     border-width:14px;
-    position:fixed;
-    top:10px;
-    right:10px;
+    color:pink;
+    
+    
     
     
 }
 
 #nav-bar a{
-    top:10;
-    right:10;
-    color:black;
+    
+    color:yellow;
 }
 
 #nav-bar h6{
     text-align:center;
     border:dotted;
-    color:black;
-    border-color:black;
-    top:10;
-    right:10;
+    color:yellow;
+    border-color:pink;
+    font-size:30px;
+    
 }
